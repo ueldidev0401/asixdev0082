@@ -33,7 +33,7 @@
         <tr>
             <td>Wulfz Official</td>
             <td>Itsuki NFT</td>           
-            <td>DogePass</td>
+            <td>Swords and Kunai</td>
             <td>FunkiFoxes</td>
         </tr>
     </thead>
@@ -49,8 +49,8 @@
             </a>
         </td>           
        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200" height="130">
+            <a href="https://swordsandkunai.com/" target="_blank">
+                <img src="https://user-images.githubusercontent.com/101267106/200195858-77b13f5c-0906-46ea-9495-27b37725cf83.PNG" width="200" height="130">
             </a>
         </td>  
         <td>
